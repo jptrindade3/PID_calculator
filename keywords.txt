@@ -1,0 +1,10 @@
+PID		KEYWORD1
+PID_begin	KEYWORD2
+actuator_begin	KEYWORD2
+time_prev	KEYWORD2
+previous_error	KEYWORD2
+PID_i_val	KEYWORD2
+PID_val		KEYWORD2
+PID_total_val	KEYWORD2
+PID_to_actuator	KEYWORD2
+PID_reset	KEYWORD2
